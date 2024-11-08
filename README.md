@@ -2,7 +2,7 @@
 
 ![Gebeta Maps Logo](./assets/g-wide.svg)
 
-Create innovative products using Gebeta Maps and win amazing prizes! This 2-week online hackathon challenges developers to build creative solutions using Gebeta Maps' powerful mapping infrastructure.
+Create innovative products using Gebeta Maps and win amazing prizes! This week long online hackathon challenges developers to build creative solutions using Gebeta Maps' powerful mapping infrastructure.
 
 ## 🗓️ Important Dates
 
@@ -14,10 +14,10 @@ Create innovative products using Gebeta Maps and win amazing prizes! This 2-week
 
 ## 🎯 About the Hackathon
 
-Join us for an exciting 2-week online hackathon where you'll leverage Gebeta Maps to create innovative products. We provide all the necessary tooling and infrastructure - you bring your creativity and skills!
+Join us for an exciting week long online hackathon where you'll leverage Gebeta Maps to create innovative products. We provide all the necessary tooling and infrastructure - you bring your creativity and skills!
 
 ### Key Features
-- 🚀 2 weeks to develop and submit your demo
+- 🚀 1 week to develop and submit your demo
 - 🏆 Win prizes and get featured on our blog
 - 🛠️ All necessary tools and infrastructure provided
 - 💡 Build with Gebeta Maps' powerful mapping platform
@@ -33,6 +33,8 @@ Join us for an exciting 2-week online hackathon where you'll leverage Gebeta Map
 
 3. **Third Place**
    - 1 Month Free Hosting
+  
+In addition to AMAZING cash prizes!
 
 ## 📋 Requirements
 
